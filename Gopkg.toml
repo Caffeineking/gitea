@@ -103,3 +103,6 @@ ignored = ["google.golang.org/appengine*"]
 [[override]]
   revision = "c10ba270aa0bf8b8c1c986e103859c67a9103061"
   name = "golang.org/x/oauth2"
+
+[metadata.heroku]
+  root-package = "github.com/mspaint/gitea"
