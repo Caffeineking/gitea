@@ -105,4 +105,4 @@ ignored = ["google.golang.org/appengine*"]
   name = "golang.org/x/oauth2"
 
 [metadata.heroku]
-  root-package = "github.com/mspaint/gitea"
+  root-package = "github.com/MrGalloway/gitea"
